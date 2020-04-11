@@ -1,0 +1,17 @@
+6-April-2020: CMP Hybrid v0.3
+
+- Globe data imported from ruleset to .DAT file, thanks to memmaker
+- Improved globe textures, by efrenespartano:
+	- North America has two mountain ranges: the Rockies and Sierra Madre, California and Mexico got more polygons
+	- South America has better Jungle/Rain Forest textures, Patagonia got new polys
+	- Europe has new mountain ranges: the Alps, the Carpathians, the Pyrenees, the Caucausus and the Urals
+- Tweaked water zones, deleted bugged polygons, by efrenespartano
+- Overall ruleset improvement, deleted some unused files
+- TFTD USOs and alienMissions temporarily deleted
+- Added Commercial, TFTD Port, TFTD Island and improved Industrial Slums terrains, by Dioxine
+- Fixed many issues on IDT terrains, by Luke83
+- Added improved Globe data (regions, city and mission zones) by hellrazor
+- Tweaked terrain distribution on textures, by efrenespartano
+- New custom Terror Sites, by efrenespartano and hellrazor
+- Added Cruise Liner Terror Site, by Solarius Scorch
+- Fixed issues with mapblocks on IDT SnowVillage and IDT Rice Farm, by Dioxine

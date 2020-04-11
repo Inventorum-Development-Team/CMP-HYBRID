@@ -1,0 +1,8 @@
+name: "Community Map Pack - Hybrid Edition"
+version: "0.3"
+author: "CMP Admins & Contributors"
+description: "A hybrid globe pack full of new fun locations to loose your rookies"
+id: CMPH
+master: xcom1
+resourceConfig: transparency.rul
+requiredExtendedVersion: "6.3.3"
