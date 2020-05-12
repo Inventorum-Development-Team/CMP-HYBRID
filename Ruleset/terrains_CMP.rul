@@ -2898,3 +2898,43 @@ terrains:
       - name: LINERT01
         width: 30
         length: 50
+
+############################################
+########### SHIPS BY HELLRAZOR ############
+##########################################
+#BEGIN CARGOSHIP
+  - name: CARGOSHIP
+    mapDataSets:
+      - BLANKS
+      - SEAURBAN
+      - CARGOSHIP1
+      - CARGOSHIP2
+      - CARGOSHIP3
+      - CARGOSHIP4
+    script: CARGOSHIP
+    mapBlocks:
+      - name: CARGOSHIP00
+        width: 30
+        length: 70
+#END CARGOSHIP
+
+#BEGIN LINERSHIP
+  - name: LINERSHIP
+    mapDataSets:
+      - BLANKS
+      - DECKSHIPUFO
+      - LINERSHIPA
+      - LINERSHIPB
+      - LINERSHIPC
+      - LINERSHIPD
+      - SEAURBAN
+    script: LINERSHIP
+    mapBlocks:
+      - name: LINERSHIP00
+        width: 30
+        length: 20
+      - name: LINERSHIP01
+        width: 30
+        length: 50
+#END LINERSHIP
+###END SPECIAL MISSIONS

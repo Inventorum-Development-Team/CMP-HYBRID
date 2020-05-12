@@ -32,9 +32,9 @@ mapScripts:
     - type: fillArea
   - type: D_PLANE
     commands:
+    - type: addUFO
     - type: resize
       size: 5
-    - type: addUFO
     - type: addCraft
     - type: addBlock
       blocks: [13, 14]

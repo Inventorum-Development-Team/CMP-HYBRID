@@ -228,7 +228,6 @@ alienDeployments:
     civilians: 16
     terrains:
       - ISLANDURBAN
-      - EXPANDED_TERROR
       - IDT_AIRPORT
     alert: STR_ALIENS_TERRORISE
     alertBackground: BACK03.SCR
@@ -276,7 +275,7 @@ alienDeployments:
     duration: [4, 10]
     despawnPenalty: 1000
 
-  - type: STR_TERROR_MISSION_CRUISE_LINER
+  - type: STR_TERROR_MISSION_SHIPPING_LINES
     data: *TERROR_MISSION_ALIEN_RANKS 
     width: 30
     length: 70
@@ -284,6 +283,8 @@ alienDeployments:
     civilians: 16
     terrains:
       - CRUISE_LINER
+      - LINERSHIP
+      - CARGOSHIP
     alert: STR_ALIENS_TERRORISE
     alertBackground: BACK03.SCR
     briefing:

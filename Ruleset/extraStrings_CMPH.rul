@@ -45,6 +45,9 @@ extraStrings:
      MAP_PORTTFTD5: "Port B"
      MAP_PORTUFO: "Port, Roads"
      MAP_ISLANDURBAN: "Island"
+     MAP_CRUISE_LINER: "Big Cruiser Ship"
+     MAP_LINERSHIP: "Small Cruiser Ship"
+     MAP_CARGOSHIP: "Cargo Ship"
 #########################################
      STR_TERROR_MISSION: TERROR MISSION URBAN
      STR_TERROR_MISSION_BRIEFING: "A city is under attack. Mission will be successful when all enemy units have been eliminated or neutralized. You must attempt to save the lives of any civilians in the area by neutralizing the alien menace. To abort the mission return X-Com operatives to transport vehicle and click on the 'Abort Mission' icon."
@@ -60,8 +63,8 @@ extraStrings:
      STR_TERROR_MISSION_PORT_BRIEFING: "A port is under attack. Mission will be successful when all enemy units have been eliminated or neutralized. You must attempt to save the lives of any civilians in the area by neutralizing the alien menace. To abort the mission return X-Com operatives to transport vehicle and click on the 'Abort Mission' icon."
      STR_TERROR_MISSION_AIRPORT: TERROR MISSION AIRPORT
      STR_TERROR_MISSION_AIRPORT_BRIEFING: "An airport is under attack. Mission will be successful when all enemy units have been eliminated or neutralized. You must attempt to save the lives of any civilians in the area by neutralizing the alien menace. To abort the mission return X-Com operatives to transport vehicle and click on the 'Abort Mission' icon."
-     STR_TERROR_MISSION_CRUISE_LINER: TERROR MISSION CRUISE LINER
-     STR_TERROR_MISSION_CRUISE_LINER_BRIEFING: A Cruise Liner is under attack. Mission will be successful when all enemy units have been eliminated or neutralized. You must attempt to save the lives of any civilians in the area by neutralizing the alien menace. To abort the mission return X-Com operatives to transport vehicle and click on the 'Abort Mission' icon."
+     STR_TERROR_MISSION_SHIPPING_LINES: TERROR MISSION SHIPPING LINES
+     STR_TERROR_MISSION_SHIPPING_LINES_BRIEFING: A ship navigating on the sea is under attack. Mission will be successful when all enemy units have been eliminated or neutralized. You must attempt to save the lives of any civilians in the area by neutralizing the alien menace. To abort the mission return X-Com operatives to transport vehicle and click on the 'Abort Mission' icon."
 ##########################################
 ############### Underwater Missions below ##########
      MAP_VOLC: Volcanic Sea Floor
@@ -80,27 +83,36 @@ extraStrings:
      STR_MUTON_UNDERWATER: Muton (Underwater)
      STR_FLOATER_UNDERWATER: Floater (Underwater)
      STR_ETHEREAL_UNDERWATER: Ethereal (Underwater)
+     STR_SMALL_SCOUT_UNDERWATER: "Small Scout (Underwater)"
+     STR_MEDIUM_SCOUT_UNDERWATER: "Medium Scout (Underwater)"
+     STR_LARGE_SCOUT_UNDERWATER: "Large Scout (Underwater)"
+     STR_HARVESTER_UNDERWATER: "Harvester (Underwater)"
+     STR_ABDUCTOR_UNDERWATER: "Abductor (Underwater)"
+     STR_TERROR_SHIP_UNDERWATER: "Terror ship (Underwater)"
+     STR_BATTLESHIP_UNDERWATER: "Battleship (Underwater)"
+     STR_SUPPLY_SHIP_UNDERWATER: "Supply ship (Underwater)"     
 ##########################################
 ## NEW REGIONS
      STR_NORTH_PACIFIC: North Pacific
      STR_SOUTH_PACIFIC: South Pacific
 ## NEW COUNTRIES
-     STR_POLAND: "Poland"
-     STR_CUBA: "Cuba"
-     STR_MONGOLIA: "Mongolia"
-     STR_ICELAND: "Iceland"
-     STR_PORTUGAL: "Portugal"
-     STR_MEXICO: "Mexico"
-     STR_IRELAND: "Ireland"
-     STR_UKRAINE: "Ukraine"
-     STR_TURKEY: "Turkey"
-     STR_ISERAL: "Iseral"
-     STR_ARGENTINA: "Argentina"
-     STR_FINLAND: "Finland"
-     STR_LIBIA: "Libia"
-     STR_SOUTH_KOREA: "South Korea"
-     STR_ISRAEL: "Isreal"
-     STR_IRAN: "Iran"
+     STR_POLAND: "POLAND"
+     STR_CUBA: "CUBA"
+     STR_MONGOLIA: "MONGOLIA"
+     STR_ICELAND: "ICELAND"
+     STR_PORTUGAL: "PORTUGAL"
+     STR_MEXICO: "MEXICO"
+     STR_IRELAND: "IRELAND"
+     STR_UKRAINE: "UKRAINE"
+     STR_TURKEY: "TURKEY"
+     STR_ARGENTINA: "ARGENTINA"
+     STR_FINLAND: "FINLAND"
+     STR_LIBIA: "LIBIA"
+     STR_SOUTH_KOREA: "SOUTH KOREA"
+     STR_ISRAEL: "ISRAEL"
+     STR_IRAN: "IRAN"
+     STR_NEW_ZEALAND: "NEW ZEALAND"
+     STR_INDONESIA: "INDONESIA"
 ## NEW CITIES
      STR_ATLANTA: "Atlanta"
      STR_BOSTON: "Boston"
@@ -411,6 +423,37 @@ extraStrings:
      STR_VOSTOKSTATION: "Vostok"
      STR_MCMURDOSTATION: "McMurdo"
      STR_AMUNDSENSCOTTSTATION: "Amundsen-Scott"
+
+# ATLANTIC/PACIFIC/INDIAN CITIES
+     STR_ANCHORAGE: Anchorage
+     STR_GUAM: Guam
+     STR_KURIL_ISLANDS: Kuril Islands
+     STR_STLAWRENCE_ISLAND: St. Lawrence
+     STR_MIDWAY_ISLAND: Midway Island
+     STR_HAWAII: Hawaii
+     STR_BERMUDA: Bermuda
+     STR_KIRIBATI: Kiribati
+     STR_PITCAIRN: Pitcairn
+     STR_REUNION: Reunion
+     STR_NAURU: Nauru
+     STR_EASTER_ISLAND: Easter Island
+     STR_GALAPAGOS_ISLAND: Galapagos Island
+     STR_SAMOA: Samoa
+     STR_NUUK: Nuuk
+     STR_STJOHN: St. John's
+     STR_AZORES: Azores
+     STR_FAROE_ISLAND: Faroe Islands
+     STR_ASCENSION_ISLAND: Ascension Island
+     STR_TRINDADE_ISLAND: Trindade Island
+     STR_SAINT_HELENA: Saint Helena
+     STR_TRISTAN: Tristan
+     STR_SOUTH_GEORGIA: South Georgia
+     STR_FALKLAND_ISLAND: Falkland Island
+     STR_COCOS_ISLANDS: Cocos Islands
+     STR_SEYCHELLES_ISLAND: Seychelles Island
+     STR_MALDIVE_ISLAND: Maldive Island
+     STR_DIEGO_GARCIA: Diego Garcia
+     STR_MAURITIUS: Mauritius
 #END CITY NAMES
 
      

@@ -16,7 +16,9 @@ MAPSETS:
 *IDT_SnowVillage : Luke83, b__0 & Efrenespartano
 *IDT_SnowForest : Luke83, b__0 & Efrenespartano
 *Commercial : Dioxine¨
-*Cruise Liner : Solarius Scorch
+*Big Cruise Liner : Solarius Scorch
+*Small Cruise Liner : Hellrazor 
+*Cargo Ship : Hellrazor
  
 
 OTHER ASSETS:

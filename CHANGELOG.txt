@@ -1,5 +1,4 @@
-6-April-2020: CMP Hybrid v0.3
-
+12-May-2020: CMP Hybrid v0.3
 - Globe data imported from ruleset to .DAT file, thanks to memmaker
 - Improved globe textures, by efrenespartano:
 	- North America has two mountain ranges: the Rockies and Sierra Madre, California and Mexico got more polygons
@@ -13,5 +12,6 @@
 - Added improved Globe data (regions, city and mission zones) by hellrazor
 - Tweaked terrain distribution on textures, by efrenespartano
 - New custom Terror Sites, by efrenespartano and hellrazor
-- Added Cruise Liner Terror Site, by Solarius Scorch
+- Added Big Cruise Liner Terror Site, by Solarius Scorch
+- Added Small Cruiser Liner and Cargo Ship, by hellrazor
 - Fixed issues with mapblocks on IDT SnowVillage and IDT Rice Farm, by Dioxine

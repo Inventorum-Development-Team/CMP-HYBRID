@@ -429,7 +429,7 @@ globe:
         - STR_TERROR_MISSION_PORT: 100
     - id: -8
       deployments:
-        STR_TERROR_MISSION_CRUISE_LINER: 100
+        STR_TERROR_MISSION_SHIPPING_LINES: 100
 
 
 

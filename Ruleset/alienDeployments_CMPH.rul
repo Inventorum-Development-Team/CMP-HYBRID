@@ -3,6 +3,7 @@ alienDeployments:
 ################ UNDERWATER VERSION ###########
 
   - type: STR_SMALL_SCOUT_UNDERWATER
+    depth: [1, 2]   
     data:
       - alienRank: 5
         lowQty: 1
@@ -29,6 +30,7 @@ alienDeployments:
     length: 50
     height: 6
   - type: STR_MEDIUM_SCOUT_UNDERWATER
+    depth: [1, 2]
     data:
       - alienRank: 5
         lowQty: 2
@@ -69,6 +71,7 @@ alienDeployments:
     height: 6
     enviroEffects: STR_UNDERWATER_ENVIRO
   - type: STR_LARGE_SCOUT_UNDERWATER
+    depth: [1, 2]
     data:
       - alienRank: 5
         lowQty: 1
@@ -132,6 +135,7 @@ alienDeployments:
     height: 6
     enviroEffects: STR_UNDERWATER_ENVIRO
   - type: STR_HARVESTER_UNDERWATER
+    depth: [1, 2]
     data:
       - alienRank: 5
         lowQty: 5
@@ -233,6 +237,7 @@ alienDeployments:
     height: 6
     enviroEffects: STR_UNDERWATER_ENVIRO
   - type: STR_ABDUCTOR_UNDERWATER
+    depth: [1, 2]
     data:
       - alienRank: 5
         lowQty: 3
@@ -335,6 +340,7 @@ alienDeployments:
     height: 6
     enviroEffects: STR_UNDERWATER_ENVIRO
   - type: STR_TERROR_SHIP_UNDERWATER
+    depth: [1, 2]
     data:
       - alienRank: 5
         lowQty: 4
@@ -462,6 +468,7 @@ alienDeployments:
     height: 6
     enviroEffects: STR_UNDERWATER_ENVIRO
   - type: STR_BATTLESHIP_UNDERWATER
+    depth: [1, 2]
     data:
       - alienRank: 5
         lowQty: 4
@@ -615,6 +622,7 @@ alienDeployments:
     height: 6
     enviroEffects: STR_UNDERWATER_ENVIRO
   - type: STR_SUPPLY_SHIP_UNDERWATER
+    depth: [1, 2]
     data:
       - alienRank: 5
         lowQty: 5
