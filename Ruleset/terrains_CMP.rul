@@ -2180,7 +2180,6 @@ terrains:
         width: 10
         length: 10
 
-terrains:
   - name: FOREST
     mapDataSets:
       - BLANKS
