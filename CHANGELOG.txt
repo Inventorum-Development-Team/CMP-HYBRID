@@ -1,4 +1,4 @@
-12-May-2020: CMP Hybrid v0.3
+12-May-2020: CMP Hybrid v0.4
 - Globe data imported from ruleset to .DAT file, thanks to memmaker
 - Improved globe textures, by efrenespartano:
 	- North America has two mountain ranges: the Rockies and Sierra Madre, California and Mexico got more polygons
