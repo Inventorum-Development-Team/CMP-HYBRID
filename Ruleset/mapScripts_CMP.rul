@@ -346,8 +346,8 @@ mapScripts:
     - type: addBlock #Add Impassable Power Source Block
       groups: 9
     - type: fillArea
-      groups: [0, 1, 8]
-      freqs: [3, 1, 1]
+      groups: [0, 1]
+      freqs: [3, 2]
     - type: digTunnel
       direction: both
       tunnelData:
