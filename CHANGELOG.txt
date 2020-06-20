@@ -1,12 +1,13 @@
 20-Jun-2020: CMP Hybrid v0.5
+- Updated to OXCE v6.5.3
 - New terrains by Solarius Scorch, with maps by Civilian and Finnik:
 	- Forest
 	- Forest Swamp
 	- Forest Snow
 	- Forest Swamp Snow
-- Improved CHEMTOWN52 map by Dioxine
+- Improved CHEMTOWN52 map, by Dioxine
 - Fixed issues with Alien Base mapScript, by efrenespartano
-- Reorganized the terrain distribution on the Globe
+- Reorganized the terrain distribution on the Globe, by efrenespartano
 
 12-May-2020: CMP Hybrid v0.4
 - Globe data imported from ruleset to .DAT file, thanks to memmaker
