@@ -245,7 +245,6 @@ alienDeployments:
     height: 7
     civilians: 16
     terrains:
-      - URBAN
       - PORTTFTD6
       - PORTTFTD5  
       - PORTUFO
